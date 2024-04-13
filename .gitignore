@@ -1,0 +1,7 @@
+
+*.pyc
+data/H_16x64_MIMO_CDL_A_ULA_clean.mat
+data/H_16x64_MIMO_CDL_B_ULA_clean.mat
+data/H_16x64_MIMO_CDL_C_ULA_clean.mat
+data/H_16x64_MIMO_CDL_D_ULA_clean.mat
+data/H_16x64_MIMO_CDL_E_ULA_clean.mat
